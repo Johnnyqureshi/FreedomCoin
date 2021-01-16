@@ -1,2 +1,2 @@
-# WarCoin
+# FreedomCoin
 Crypto
